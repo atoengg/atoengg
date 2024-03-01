@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Irham Alkarim</h1>
 <!-- <img alt="gambar" src="https://simpleprogrammer.com/wp-content/uploads/2019/05/programmer-languages.png"> -->
-![alt](https://github-readme-stats.vercel.app/api?username=atoengg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <p align="justify">I am a 7th semester information systems student at Trunojoyo University with an interest in web development. I've honed my skills in HTML, CSS, and JavaScript, and I've learned advanced JavaScript frameworks like React.js to create dynamic web applications. My skills also include CSS frameworks such as Boostrap and Tailwind CSS, allowing me to develop powerful web solutions. Although I have knowledge in various programming languages ​​such as Java, and Python, my main focus remains on web development. I am committed to staying up to date with the latest technology developments to continue pushing the boundaries of web development.</p>
 
 - 🌱 I’m currently learning **Frameworks Javascript**
