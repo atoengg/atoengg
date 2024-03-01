@@ -10,9 +10,15 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=atoengg&show_icons=true" />
+  
+</picture>
+
+<picture>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=atoengg&theme=vue-dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
     />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atoengg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </picture>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoengg)](https://github.com/atoengg/github-readme-stats) -->
