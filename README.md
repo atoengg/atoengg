@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atoengg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </picture>
 
-<p align="justify">I am a 7th semester information systems student at Trunojoyo University with an interest in web development. I've honed my skills in HTML, CSS, and JavaScript, and I've learned advanced JavaScript frameworks like React.js to create dynamic web applications. My skills also include CSS frameworks such as Boostrap and Tailwind CSS, allowing me to develop powerful web solutions. Although I have knowledge in various programming languages ​​such as Java, and Python, my main focus remains on web development. I am committed to staying up to date with the latest technology developments to continue pushing the boundaries of web development.</p>
+<p align="justify">I am a final year information systems student at Trunojoyo University with an interest in web development. I've honed my skills in HTML, CSS, and JavaScript, and I've learned advanced JavaScript frameworks like React.js to create dynamic web applications. My skills also include CSS frameworks such as Boostrap and Tailwind CSS, allowing me to develop powerful web solutions. Although I have knowledge in various programming languages ​​such as Java, and Python, my main focus remains on web development. I am committed to staying up to date with the latest technology developments to continue pushing the boundaries of web development.</p>
 
 - 🌱 I’m currently learning **Frameworks Javascript**
 
